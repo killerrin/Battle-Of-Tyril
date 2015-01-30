@@ -1,0 +1,5 @@
+C:\Users\killer rin\Programming\Visual Studio 2012\Projects\Windows Phone\Battle of Tyril\Battle of Tyril\Battle of TyrilContent\obj\Windows Phone\Debug\Battle of TyrilContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andrew\SkyDrive\Programming\Visual Studio 2012\Projects\Windows Phone\Battle of Tyril\Battle of Tyril\Battle of TyrilContent\obj\Windows Phone\Debug\Battle of TyrilContent.contentprojResolveAssemblyReference.cache
+C:\Users\killer rin\SkyDrive\Programming\Visual Studio 2012\Projects\Windows Phone\Battle of Tyril\Battle of Tyril\Battle of TyrilContent\obj\Windows Phone\Debug\Battle of TyrilContent.contentprojResolveAssemblyReference.cache
+C:\Users\killer rin\SkyDrive\Programming\Visual Studio 2012\Projects\C#\XNA\Windows Phone\Battle of Tyril\Battle of Tyril\Battle of TyrilContent\obj\Windows Phone\Debug\Battle of TyrilContent.contentprojResolveAssemblyReference.cache
+C:\Users\killer rin\Programming\Windows Phone\Battle of Tyril\Battle of Tyril\Battle of TyrilContent\obj\Windows Phone\Debug\Battle of TyrilContent.contentprojResolveAssemblyReference.cache
